@@ -1,0 +1,85 @@
+body {
+  background-color: #EAF6F6;
+  margin: auto 10% auto 10%;
+}
+
+li, td, p {
+  font-family: 'Roboto Slab', serif;
+}
+
+.git-intro {
+  text-align: center;
+}
+
+input {
+  margin: 4px;
+}
+textarea {
+  margin: 1em auto 2em;
+}
+
+label {
+  margin-bottom: 4%;
+}
+
+h1 {
+  font-family: 'PT Serif', serif;
+  font-size: 2.5rem;
+}
+
+h2, h3 {
+  color: rgb(67, 91, 199);
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+}
+
+h1:hover {
+  color: rgb(0, 89, 255);
+  aspect-ratio: inherit;
+}
+
+hr {
+  border-width: 10px;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+}
+
+.table-top {
+
+}
+
+a {
+  font-family: 'Roboto Slab', serif;
+}
+
+th {
+  font-family: 'Bona Nova', serif;
+  font-size: 1.5em
+}
+
+.table-edu {
+  border: initial;
+  border-style: solid;
+  
+}
+
+.head1, head3 {
+  width: 15%;
+}
+
+.head2 {
+  width: 90% ;
+}
+
+.head {
+  padding-block: 1%;
+  width: 35%;
+  position: relative;
+}
+
+th ,td {
+  padding: 1%;
+}
