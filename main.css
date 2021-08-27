@@ -1,4 +1,4 @@
-body {
+window {
   background-color: #EAF6F6;
   margin: auto 10% auto 10%;
 }
@@ -63,7 +63,6 @@ th {
 .table-edu {
   border: initial;
   border-style: solid;
-  
 }
 
 .head1, head3 {
